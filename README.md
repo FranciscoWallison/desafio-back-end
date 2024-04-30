@@ -1,5 +1,5 @@
 # Framework next.js
-O commit com as primeiras configurações do projeto
+O commit com as primeiras configurações do projeto deve incluir as configurações iniciais do Framework Next.js.
 ````
 git add <conteudo>
 git commit -m "ADS: <sua_matricula> Next-js"
