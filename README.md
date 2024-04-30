@@ -117,7 +117,7 @@ git commit -m "ADS: <sua_matricula> Deploy-js"
 Nessa etapa, são realizados os testes e configuradas as variáveis de ambiente de acordo com a hospedagem escolhida.
 ````
 
-# Pagina com o CRUD de clientes
+# Página com o CRUD de clientes
 O commit com a logica da page de clientes
 ````
 git add <conteudo>
