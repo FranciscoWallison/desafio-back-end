@@ -27,7 +27,7 @@ Todos os arquivos criados devem conter a data, nome e matrícula, além de uma b
  * Aqui são tratados eventos de cliques, validações de entrada e comunicação
  * com APIs para envio e recebimento de dados.
  *
- * Este script é parte do sistema de gerenciamento de vendas da empresa XYZ.
+ * Este script é parte o curso de ADS.
  */
 
 ````
