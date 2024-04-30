@@ -112,7 +112,7 @@ O commit com as funções para as consultas e o armazenamento
 git add <conteudo>
 git commit -m "ADS: <sua_matricula> repository-js"
 ````
-### Objetivo para o Deploy.
+### Objetivo.
 ````
 Nessa etapa, são realizados todas as funções para consultar no banco de dados.
 ````
