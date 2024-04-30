@@ -1,3 +1,10 @@
+# Framework next.js
+O commit com as primeiras configurações do projeto
+````
+git add <conteudo>
+git commit -m "ADS: <sua_matricula> Next-js"
+````
+
 # API Arquitetura RESTful
 O commit com as rotas para o CRUD de clientes.
 ````
