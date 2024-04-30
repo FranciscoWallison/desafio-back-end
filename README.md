@@ -106,6 +106,17 @@ o status e quaisquer observações adicionais.
 Eu devo ser capaz de remover uma ordem de serviço da base de dados, se necessário.
 ````
 
+# Repositorio
+O commit com as funções para as consultas e o armazenamento
+````
+git add <conteudo>
+git commit -m "ADS: <sua_matricula> repository-js"
+````
+### Objetivo para o Deploy.
+````
+Nessa etapa, são realizados todas as funções para consultar no banco de dados.
+````
+
 # Deploy do projeto
 O commit com as configurações para o Deploy
 ````
