@@ -162,4 +162,4 @@ git commit -m "ADS: <sua_matricula> Collection"
 A configuração de cabeçalho não é necessário para para os arquivos do tipo .json.
 
 
-## Serão zerados caso os critérios de commit não sejam sequidos e se os arquivos criados pelo autor não contiverem suas credenciais.
+## Serão zerados caso os critérios de commit não sejam sequidos, se os arquivos criados pelo autor não contiverem suas credenciais e plagio.
