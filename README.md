@@ -163,3 +163,5 @@ A configuração de cabeçalho não é necessário para para os arquivos do tipo
 
 
 ## Serão zerados caso os critérios de commit não sejam sequidos, se os arquivos criados pelo autor não contiverem suas credenciais e plagio.
+_____
+## Data de entrega e apresentações 28/05 até 07/06
