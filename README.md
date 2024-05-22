@@ -165,3 +165,7 @@ A configuração de cabeçalho não é necessário para para os arquivos do tipo
 ## Serão zerados caso os critérios de commit não sejam sequidos, se os arquivos criados pelo autor não contiverem suas credenciais e plagio.
 _____
 ## A data de entrega e apresentações está definida para o período de 28/05 a 07/06. Recomendo que concluam suas tarefas omais cedo possível, preferencialmente antes do dia 28, para evitar conflitos de última hora, atrasos nas notas ou quaisquer surpresas desagradáveis.
+
+
+
+[Primeira entrega 21/05/2024 - JohanAlves](https://github.com/JohanAlves/portfolio-os-system)
